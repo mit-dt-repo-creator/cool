@@ -2,6 +2,7 @@ Camping supplies
 ---------------
 
 - Tent
+- Camera
 
 Gear
  - Shoes
